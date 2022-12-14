@@ -5,4 +5,5 @@
 * [Exercice 2](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/ActTableau-Exo2.ipynb)
 * [Exercice 3](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/ActTableau-Exo3.ipynb)
 ## TP
+* [correction du TP4](TP4-diviseurs_CORR.ipynb)
 * [correction du TP5](http://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TP5-CORRECTION.ipynb)
