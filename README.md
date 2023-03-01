@@ -1,4 +1,5 @@
 # BTS SIO1
+[Python à partir de zéro](https://fr.futurecoder.io/course/#IntroducingTheShell)
 
 ## Tableau de dimension 2
 * [travail autonome](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/sio1/main/TAB2_TRAINING.ipynb)
