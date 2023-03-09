@@ -3,6 +3,7 @@
 
 ## entraînement CCF
 * [Pacman](pacman_A_COMPLETER.py)
+   * [mode console](ModeConsole.py)
 * [tableau magique](TabMag)
 
 ## Tableau de dimension 2
