@@ -15,15 +15,7 @@ def piste_ouverte(debut, fin):
             valide=True
     return valide
 
-def parcours_valide(parcours):
-    resu = True
-    for i in range(len(parcours)):
-        deb = parcours[i]
-        fin = parcours [i+1]
-        print(deb, fin)
-        if piste_ouverte(deb, fin= ==False):
-            resu = False
-    return resu
+
 
 
 
