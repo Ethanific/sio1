@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # ce fichier doit être sauvegardé dans le même répertoire que TPTaquin.py 
 # sinon l'importation ne fonctionnera pas 
 
