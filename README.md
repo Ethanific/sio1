@@ -2,6 +2,7 @@
 [Python à partir de zéro](https://fr.futurecoder.io/course/#IntroducingTheShell)
 
 ## entraînement CCF
+* [**Jeu du Taquin**](Taquin)
 * PISTES DE SKI
   * [SUJET](Pistes_de_ski.pdf)
   * [code à compléter](SKI_A_COMPLETER.py)
